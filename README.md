@@ -61,8 +61,16 @@ This is a compilation of resources for studying for the eCPPTv2. Not all of the 
 5. faln (vulnerability scanner, wraps around Nmap, can be deployed locally, in a container, or on Kubernetes. allows for pushing results to the cloud): [link](https://github.com/cloudflare/flan) (very cool IF, it can live up to expectations)
 6. fuzza (TCP fuzzing tool to test for remote buffer overflows): [link](https://github.com/cytopia/fuzza)
 
-## Misc Labs I wanna Try:
-1. THM [road](https://tryhackme.com/room/road)
-
 ## Free Courses:
 1. Offensive Software Exploitation (OSE) Course (full college course taught @ Champlain College in Spring 2021.): [link](https://exploitation.ashemery.com/)
+
+## Places to practice:
+1. Hack The Box (HTB): [link](https://www.hackthebox.com/)
+2. Try Hack Me (THM): [link](https://tryhackme.com/dashboard)
+3. VulnHub (VH): [link](https://www.vulnhub.com)
+4. Hack My VM (HMVM): [link](https://hackmyvm.eu/)
+5. OffSec Proving Playground (OSPP): [link](https://www.offensive-security.com/labs/individual/)
+
+## Misc Labs I wanna Try:
+these are from many sources. including but not necessarily limited to: Hack The Box (HTB), Try Hack Me (THM), VulnHub (VH), Hack My VM (HMVM), or OffSec Proving Playground (OSPP).
+1. THM [road](https://tryhackme.com/room/road)
