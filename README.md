@@ -25,7 +25,7 @@ the structure for the INE course can be found [here](ine-curriculum.md) in markd
 10. How To Stay Anonymous (HackerSploit): [link](https://www.youtube.com/watch?v=VZMHfO9rOCg&list=PLBf0hzazHTGOh6JBKc8WkpyuZgDPW6yTk) (a little old)
 11. Nmap (HackerSploit): [link](https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx) (a little old)
 12. Information Gathering (HackSploit): [link]([Information Gathering](https://www.youtube.com/playlist?list=PLBf0hzazHTGPx4_jgz6wOJoj4cijSv1wW)) (a little old)
-13. Docker (HackSploit): [link](https://www.youtube.com/watch?v=KINjI1tlo2w&list=PLBf0hzazHTGNv0-GVWZoveC49pIDHEHbn) (a little old) (helpful for installing some tools) 
+13. Docker (HackSploit): [link](https://www.youtube.com/watch?v=KINjI1tlo2w&list=PLBf0hzazHTGNv0-GVWZoveC49pIDHEHbn) (a little old) (helpful for installing some tools mostly look at the last video in the playlist) 
 
 ## General Resources:
 1. High on coffee write up collection: [link](https://highon.coffee/)
