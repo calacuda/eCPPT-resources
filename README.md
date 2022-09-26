@@ -21,9 +21,11 @@ the structure for the INE course can be found [here](ine-curriculum.md) in markd
 6. Nessus Through SOCKS Through Meterpreter (UNKNOWN): [link](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
 7. Report Writing (UNKNOWN): [link](https://enotes.nickapic.com/Report-Writing-2928e26dae6240339b34a65b81af81dd)
 8. Pivoting with Chisel (Ap3x): [link](https://ap3x.github.io/posts/pivoting-with-chisel/)
-9. Metasploit (HackerSploit): [link](https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm)
-10. How To Stay Anonymous (HackerSploit): [link](https://www.youtube.com/watch?v=VZMHfO9rOCg&list=PLBf0hzazHTGOh6JBKc8WkpyuZgDPW6yTk)
-11. 
+9. Metasploit (HackerSploit): [link](https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm) (a little old)
+10. How To Stay Anonymous (HackerSploit): [link](https://www.youtube.com/watch?v=VZMHfO9rOCg&list=PLBf0hzazHTGOh6JBKc8WkpyuZgDPW6yTk) (a little old)
+11. Nmap (HackerSploit): [link](https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx) (a little old)
+12. Information Gathering (HackSploit): [link]([Information Gathering](https://www.youtube.com/playlist?list=PLBf0hzazHTGPx4_jgz6wOJoj4cijSv1wW)) (a little old)
+13. Docker (HackSploit): [link](https://www.youtube.com/watch?v=KINjI1tlo2w&list=PLBf0hzazHTGNv0-GVWZoveC49pIDHEHbn) (a little old) (helpful for installing some tools) 
 
 ## General Resources:
 1. High on coffee write up collection: [link](https://highon.coffee/)
