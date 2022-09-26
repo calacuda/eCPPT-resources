@@ -1,6 +1,8 @@
 # eCPPTv2 Study Resources:
 
-This is a compilation of resources for studying for the eCPPTv2. Not all of the resources are explicitly for the eCPPT but they will be helpful anyway. If this grows too large, I may split this up into multiple files.
+This is a compilation of resources for studying for the eCPPTv2. Not all of the resources are explicitly for the eCPPT but they will be helpful anyway. If this grows too large, I may split this up into multiple files. 
+
+the structure for the INE course can be found [here](ine-curriculum.md) in markdown format or on [their page](https://ine.com/learning/paths/penetration-testing-professional) 
 
 ## Write Ups:
 1. Graham Helton (Personal Site): [link](https://www.grahamhelton.com/blog/ecpptblog/)
@@ -19,6 +21,9 @@ This is a compilation of resources for studying for the eCPPTv2. Not all of the 
 6. Nessus Through SOCKS Through Meterpreter (UNKNOWN): [link](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
 7. Report Writing (UNKNOWN): [link](https://enotes.nickapic.com/Report-Writing-2928e26dae6240339b34a65b81af81dd)
 8. Pivoting with Chisel (Ap3x): [link](https://ap3x.github.io/posts/pivoting-with-chisel/)
+9. Metasploit (HackerSploit): [link](https://www.youtube.com/watch?v=8lR27r8Y_ik&list=PLBf0hzazHTGN31ZPTzBbk70bohTYT7HSm)
+10. How To Stay Anonymous (HackerSploit): [link](https://www.youtube.com/watch?v=VZMHfO9rOCg&list=PLBf0hzazHTGOh6JBKc8WkpyuZgDPW6yTk)
+11. 
 
 ## General Resources:
 1. High on coffee write up collection: [link](https://highon.coffee/)
